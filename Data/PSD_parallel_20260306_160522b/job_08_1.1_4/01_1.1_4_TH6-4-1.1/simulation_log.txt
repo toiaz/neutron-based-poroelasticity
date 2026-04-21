@@ -1,0 +1,48 @@
+=== Batch MaxEnt PSD Inversion Log ===
+Date: 2026-03-06T16:46:03
+Data file: D:\OneDrive\0 paper\c Zhang Tao poroelasticity\Data\1.1_4拼接后_IQ_Normed_OnlyCell_TH6-4_1.1_6_10.5A_12.75m_处理后.dat
+Condition key: 04-1.1
+Sample name: TH6-4-1.1
+Side pressure (nominal MPa): 1.1
+Axial pressure (MPa): 4.0
+Thickness (um): 732.3
+Note: Confining/fluid pressure nominally 1.1 MPa
+
+--- Input Data ---
+N points: 450
+Q range: 0.00026288 to 0.706205
+I range: 0.00507545 to 2.05696e+06
+Sigma range: 0.0697132 to 124679
+Negative I count: 0
+Zero I count: 0
+Poisson-valid count: 450
+
+--- Configuration ---
+Likelihood: poisson
+R range (A): 5.0 to 15000.0
+N bins: 90
+Smooth lambda: 0.1
+Grid points per dim: 20
+Fine grid points per dim: 15
+Two-stage grid: True
+Beam area (mm^2): 10.0
+SLD matrix (10^-6 A^-2): 3.98
+SLD pore (10^-6 A^-2): 0.0
+
+--- Results ---
+Alpha: 1.000000e-06
+C: 2.420854e+02
+D: 484.170843341064
+S: -1.801842e-04
+Score: -2338.273294
+SF params: {'R_hs': 4152.850103050385, 'eta': 0.08421052631578947}
+Extras: {'background': 0.05022981681054173, 'powerlaw_amp': 3.2860165685719955e-14}
+Elapsed seconds: 851.27
+
+--- Porosity / Volume ---
+delta_rho: 3.98
+total_porosity_pct: 11.021706
+total_pore_vol_mm3: 8.071195e-01
+partial_range_A: 10.0 to 15000.0
+partial_porosity_pct: 8.527125
+partial_pore_vol_mm3: 6.244413e-01

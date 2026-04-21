@@ -1,0 +1,58 @@
+Data dir: D:\OneDrive\0 paper\c Zhang Tao poroelasticity\Data
+Output dir: D:\OneDrive\0 paper\c Zhang Tao poroelasticity\Data\PSD_parallel_20260306_160522b\job_07_1.1_3
+Files to process: 1
+[1/1] 1.1_3拼接后_IQ_Normed_OnlyCell_TH6-3_1.1_6_10.5A_12.75m_处理后.dat | neg=0 | side=1.1 axial=3 | start
+[outer coarse] Grid evaluating 400 points (alpha profiled out via bisection)...
+[outer coarse] Spawning 61 workers...
+  [grid coarse] 20/400 (5.0%)
+  [grid coarse] 40/400 (10.0%)
+  [grid coarse] 60/400 (15.0%)
+  [grid coarse] 80/400 (20.0%)
+  [grid coarse] 100/400 (25.0%)
+  [grid coarse] 120/400 (30.0%)
+  [grid coarse] 140/400 (35.0%)
+  [grid coarse] 160/400 (40.0%)
+  [grid coarse] 180/400 (45.0%)
+  [grid coarse] 200/400 (50.0%)
+  [grid coarse] 220/400 (55.0%)
+  [grid coarse] 240/400 (60.0%)
+  [grid coarse] 260/400 (65.0%)
+  [grid coarse] 280/400 (70.0%)
+  [grid coarse] 300/400 (75.0%)
+  [grid coarse] 320/400 (80.0%)
+  [grid coarse] 340/400 (85.0%)
+  [grid coarse] 360/400 (90.0%)
+  [grid coarse] 380/400 (95.0%)
+  [grid coarse] 400/400 (100.0%)
+[outer coarse] Best score: -2335.440 | {'R_hs': 4152.85010305038, 'eta': 0.08421052631578947}
+[outer fine] Fine bounds: {'R_hs': (1283.6558365209182, 13435.193053885616), 'eta': (0.025460526315789475, 0.14296052631578948)}
+[outer fine] Grid evaluating 225 points (alpha profiled out via bisection)...
+[outer fine] Spawning 61 workers...
+  [grid fine] 11/225 (4.9%)
+  [grid fine] 22/225 (9.8%)
+  [grid fine] 33/225 (14.7%)
+  [grid fine] 44/225 (19.6%)
+  [grid fine] 55/225 (24.4%)
+  [grid fine] 66/225 (29.3%)
+  [grid fine] 77/225 (34.2%)
+  [grid fine] 88/225 (39.1%)
+  [grid fine] 99/225 (44.0%)
+  [grid fine] 110/225 (48.9%)
+  [grid fine] 121/225 (53.8%)
+  [grid fine] 132/225 (58.7%)
+  [grid fine] 143/225 (63.6%)
+  [grid fine] 154/225 (68.4%)
+  [grid fine] 165/225 (73.3%)
+  [grid fine] 176/225 (78.2%)
+  [grid fine] 187/225 (83.1%)
+  [grid fine] 198/225 (88.0%)
+  [grid fine] 209/225 (92.9%)
+  [grid fine] 220/225 (97.8%)
+  [grid fine] 225/225 (100.0%)
+[outer fine] Improved score: -2332.098 | {'R_hs': 4152.850103050385, 'eta': 0.07581766917293234}
+[outer] Refining top 3 with Nelder-Mead...
+  Refined #1: score=-3168.886 | alpha=1.000e-06 | {'R_hs': 4152.850103050385, 'eta': 0.08581766917293233}
+  Refined #2: score=-3000.135 | alpha=1.000e-06 | {'R_hs': 4152.85010305038, 'eta': 0.08421052631578947}
+  Refined #3: score=-3267.525 | alpha=1.000e-06 | {'R_hs': 4152.850103050385, 'eta': 0.09260338345864662}
+[1/1] 1.1_3拼接后_IQ_Normed_OnlyCell_TH6-3_1.1_6_10.5A_12.75m_处理后.dat | done in 986.3s | porosity=11.4107% | partial=8.3152%
+Finished. Summary: D:\OneDrive\0 paper\c Zhang Tao poroelasticity\Data\PSD_parallel_20260306_160522b\job_07_1.1_3\batch_summary.csv

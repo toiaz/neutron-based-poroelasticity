@@ -1,0 +1,7 @@
+usage: parallel_process_th6_maxent_v3_2_1.py [-h] [--data-dir DATA_DIR]
+                                             [--output-dir OUTPUT_DIR]
+                                             [--max-parallel MAX_PARALLEL]
+                                             [--poll-seconds POLL_SECONDS]
+                                             [--skip-plots]
+                                             [--only [ONLY ...]]
+parallel_process_th6_maxent_v3_2_1.py: error: unrecognized arguments: paper\c Zhang Tao poroelasticity\Data paper\c Zhang Tao poroelasticity\Data\PSD_parallel_20260306_160522

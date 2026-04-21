@@ -1,0 +1,25 @@
+Output root: D:\OneDrive\0 paper\c Zhang Tao poroelasticity\Data\PSD_parallel_20260306_160522b
+Samples: 11 | Max parallel: 3
+[launch] 0_0.1 -> pid=63360 | logs=stdout.log
+[launch] 0_1 -> pid=83432 | logs=stdout.log
+[launch] 0_2 -> pid=85968 | logs=stdout.log
+[finish] 0_0.1 -> ok in 655.1s
+[launch] 0_3 -> pid=63988 | logs=stdout.log
+[finish] 0_1 -> ok in 760.1s
+[launch] 0_4 -> pid=24640 | logs=stdout.log
+[finish] 0_2 -> ok in 825.1s
+[launch] 0_5 -> pid=68204 | logs=stdout.log
+[finish] 0_3 -> ok in 670.1s
+[launch] 1.1_3 -> pid=66592 | logs=stdout.log
+[finish] 0_4 -> ok in 805.1s
+[launch] 1.1_4 -> pid=60300 | logs=stdout.log
+[finish] 0_5 -> ok in 810.1s
+[launch] 1.1_6 -> pid=62968 | logs=stdout.log
+[finish] 1.1_3 -> ok in 990.1s
+[launch] 1.1_8 -> pid=43040 | logs=stdout.log
+[finish] 1.1_4 -> ok in 855.1s
+[launch] 1.1_10 -> pid=85228 | logs=stdout.log
+[finish] 1.1_6 -> ok in 970.1s
+[finish] 1.1_10 -> ok in 1070.1s
+[finish] 1.1_8 -> ok in 1185.1s
+Finished. Summary: D:\OneDrive\0 paper\c Zhang Tao poroelasticity\Data\PSD_parallel_20260306_160522b\batch_summary.csv
