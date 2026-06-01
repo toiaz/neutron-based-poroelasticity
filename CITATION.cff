@@ -3,22 +3,22 @@ message: "If you use these data or scripts, please cite the archived Zenodo reco
 title: "Data and scripts for Bulk Compaction and Apparent Porosity Change During Shale Loading Revealed by In Situ (V)SANS"
 type: dataset
 authors:
-  - family-names: Hu
-    given-names: Qinhong
   - family-names: Zhang
     given-names: Tao
+  - family-names: Hu
+    given-names: Qinhong
   - family-names: Zhao
-    given-names: Chao
+    given-names: Chen
   - family-names: Clarkson
     given-names: Christopher R.
   - family-names: Cheng
-    given-names: Hongbo
+    given-names: He
   - family-names: Li
-    given-names: Shuang
+    given-names: Shouding
   - family-names: Ghanbarian
     given-names: Behzad
   - family-names: Wang
-    given-names: Quan
+    given-names: Qiming
   - family-names: Yuan
     given-names: Bao
   - family-names: Qiao
@@ -26,7 +26,7 @@ authors:
   - family-names: Liu
     given-names: Zhenghao
   - family-names: Xiao
-    given-names: Youshuo
+    given-names: Yufeng
 version: "1.0.0"
 date-released: "2026-06-01"
 repository-code: "https://github.com/toiaz/neutron-based-poroelasticity"
