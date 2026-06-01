@@ -1,0 +1,38 @@
+{
+  "title": "Data and scripts for Bulk Compaction and Apparent Porosity Change During Shale Loading Revealed by In Situ (V)SANS",
+  "upload_type": "dataset",
+  "description": "Data repository supporting the manuscript Bulk Compaction and Apparent Porosity Change During Shale Loading Revealed by In Situ (V)SANS. The archive includes stitched neutron-scattering curves for the loading states, processed pore-size-distribution outputs, neutron-derived structure-factor summaries, and related reduction and plotting scripts used for the pore-volume interpretation.",
+  "creators": [
+    {"name": "Hu, Qinhong"},
+    {"name": "Zhang, Tao"},
+    {"name": "Zhao, Chao"},
+    {"name": "Clarkson, Christopher R."},
+    {"name": "Cheng, Hongbo"},
+    {"name": "Li, Shuang"},
+    {"name": "Ghanbarian, Behzad"},
+    {"name": "Wang, Quan"},
+    {"name": "Yuan, Bao"},
+    {"name": "Qiao, Hongguo"},
+    {"name": "Liu, Zhenghao"},
+    {"name": "Xiao, Youshuo"}
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "publication_date": "2026-06-01",
+  "keywords": [
+    "shale",
+    "poroelasticity",
+    "neutron scattering",
+    "VSANS",
+    "pore-size distribution"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/toiaz/neutron-based-poroelasticity",
+      "relation": "isSupplementTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}
